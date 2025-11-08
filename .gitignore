@@ -1,0 +1,38 @@
+# Git
+.git
+*.swp
+
+# Flutter/Dart
+.dart_tool/
+.idea/
+.packages
+.pub/
+.pub-cache/
+build/
+*.lock
+*.log
+
+# Secrets
+.env
+/android/app/google-services.json
+/ios/Runner/GoogleService-Info.plist
+/lib/firebase_options.dart
+
+# IDE files
+.vscode/
+*.iml
+*.lcov
+
+# Platform-specific junk
+/android/local.properties
+/ios/Pods/
+/ios/Flutter/ephemeral/
+/ios/Flutter/Flutter.podspec
+/ios/Podfile.lock
+/ios/Runner/GeneratedPluginRegistrant.h
+/ios/Runner/GeneratedPluginRegistrant.m
+/macos/Flutter/ephemeral/
+/macos/Pods/
+/macos/Podfile.lock
+/windows/flutter/ephemeral/
+/linux/flutter/ephemeral/

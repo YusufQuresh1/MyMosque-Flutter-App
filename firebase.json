@@ -1,0 +1,35 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "mymosque-a506e",
+          "appId": "1:458253748346:android:64286b6c94ea25e12993c3",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "mymosque-a506e",
+          "configurations": {
+            "android": "1:458253748346:android:64286b6c94ea25e12993c3",
+            "ios": "1:458253748346:ios:71c6e6bcabde5ce02993c3"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
