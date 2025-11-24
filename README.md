@@ -1,5 +1,9 @@
 # MyMosque - Mosque Community App (Final Year Dissertation)
 
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+![Type](https://img.shields.io/badge/Type-University%20Dissertation-blue)
+![Tech Stack](https://img.shields.io/badge/Tech-Flutter%20%7C%20Firebase%20%7C%20Google%20Maps-orange)
+
 Welcome! This repository contains the source code for "MyMosque," a Flutter-based mobile application developed as my final year university dissertation.
 
 The app is a high-fidelity prototype of a social network designed to digitally connect Muslim users with their local mosques and wider community. It features distinct user roles (General User vs. Mosque Admin), a real-time social feed, a map-based mosque finder, and much more.
@@ -130,3 +134,11 @@ analysis_options.yaml   → Dart linter rules
 firebase.json           → Firebase Cloud Functions configuration
 pubspec.yaml            → Flutter project configuration and package dependencies
 README.md               → This file
+
+```
+---
+
+## 📬 Contact
+**Yusuf Qureshi**
+*Connect with me on LinkedIn to discuss this project further.*
+* [LinkedIn Profile](https://www.linkedin.com/in/mohammedyusufqureshi)
